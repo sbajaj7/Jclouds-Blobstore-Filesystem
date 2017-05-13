@@ -9,10 +9,11 @@ Following is a basic flow of the aplication:
 5. File download link is shown.
 6. Receiver clicks on the link and downloads the file.
 
-I have used here Tomcat for application server & JClouds Blobstore File System API for blob storage.
+I have used here Tomcat for application server, Html, CSS, SASS, Koala GUI application for SASS compliation & JClouds Blobstore File System API for blob storage.
 
 <a href="url"><img src="https://github.com/sbajaj7/Jclouds-Blobstore-Filesystem/blob/master/JClouds%201.PNG" align="left" height="800" width="1000"></a>
 <br><br>
-The above webpage could be used to upload a blob on the cloud server using JClouds Blobstore Filesystem API. This was a small project which I wrote to have little fun with JClouds Blobstore Filesystem API.
+<p>The above webpage could be used to upload a blob on the cloud server using JClouds Blobstore Filesystem API. This was a small project which I wrote to have a little fun with JClouds Blobstore Filesystem API.</p>
 <a href="url"><img src="https://github.com/sbajaj7/Jclouds-Blobstore-Filesystem/blob/master/JClouds%202.PNG" align="left" height="800" width="1000" ></a>
-The file could be retrieved from the above unique URL given to the receiver.
+<br><br>
+<p>The file could be retrieved from the above unique URL given to the receiver.</p>
