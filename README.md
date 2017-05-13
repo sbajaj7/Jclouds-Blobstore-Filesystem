@@ -10,3 +10,8 @@ Following is a basic flow of the aplication:
 6. Receiver clicks on the link and downloads the file.
 
 I have used here Tomcat for application server & JClouds Blobstore File System API for blob storage.
+
+<a href="url"><img src="https://github.com/sbajaj7/Jclouds-Blobstore-Filesystem/blob/master/JClouds%201.PNG" align="left" height="800" width="1000" >
+
+<a href="url"><img src="https://github.com/sbajaj7/Jclouds-Blobstore-Filesystem/blob/master/JClouds%202.PNG" align="left" height="800" width="1000" >
+
